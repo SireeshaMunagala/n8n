@@ -1,1 +1,1 @@
-select substr('alpha',1,1,3,4) from dual;
+select substr('alpha',1,10) from dual;
